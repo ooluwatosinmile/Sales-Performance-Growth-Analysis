@@ -27,7 +27,7 @@ Focused on high-level KPIs including Revenue, Profit, and Geographic Sales Distr
 ![Overview](https://github.com/ooluwatosinmile/Sales-Performance-Growth-Analysis/blob/main/03_Images/Overview%20page.jpeg)
 ### Page 2: Operational Deep Dive
 Granular analysis of units sold, return rates, and demographic performance.
-![Deep Dive](03_Images/your_deep_dive_image_name.png)
+![Deep Dive](https://github.com/ooluwatosinmile/Sales-Performance-Growth-Analysis/blob/main/03_Images/Deep-dive%20analysis.jpeg)
 
 ### Page 3: Strategic Insights
 A narrative-driven page providing tactical recommendations like the "Premium Commuter" campaign.
