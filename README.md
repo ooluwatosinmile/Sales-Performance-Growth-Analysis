@@ -1,3 +1,7 @@
+# Sales Performance & Growth Analysis Dashboard
+
+This project features a comprehensive 3-page Power BI dashboard that analyzes $24.91M in total sales revenue. The core of the analysis reveals how a strategic volume shift led to a massive 166.24% Year-over-Year (YoY) growth, despite a calculated decline in Average Order Value (AOV).
+
 ### 🎯 Business Problem The organization experienced a significant shift in sales dynamics but lacked a centralized tool to monitor performance and operational risks. Management needed to understand the correlation between a high-volume sales strategy and the resulting impact on Average Order Value (AOV) and Product Returns.
 
 ### 🛠️ Tech Stack & Skills
