@@ -31,7 +31,7 @@ Granular analysis of units sold, return rates, and demographic performance.
 
 ### Page 3: Strategic Insights
 A narrative-driven page providing tactical recommendations like the "Premium Commuter" campaign.
-![Strategic Insights](03_Images/your_insights_image_name.png)
+![Strategic Insights](https://github.com/ooluwatosinmile/Sales-Performance-Growth-Analysis/blob/main/03_Images/Insight%20page.jpeg)
 
 ---
 
