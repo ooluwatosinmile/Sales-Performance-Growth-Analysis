@@ -1,36 +1,41 @@
 # Sales Performance & Growth Analysis Dashboard
 
-This project features a comprehensive 3-page Power BI dashboard that analyzes $24.91M in total sales revenue. The core of the analysis reveals how a strategic volume shift led to a massive 166.24% Year-over-Year (YoY) growth, despite a calculated decline in Average Order Value (AOV).
+## 📊 Executive Summary
+This project features a comprehensive 3-page Power BI solution analyzing **$24.91M in total sales revenue** with a record-breaking **166.24% YoY growth**. The analysis identifies a strategic shift toward high-volume, lower-cost categories, resulting in a controlled drop in **Average Order Value (AOV)** to **$990.09**, while successfully moving **84K units**.
 
-### 🎯 Business Problem The organization experienced a significant shift in sales dynamics but lacked a centralized tool to monitor performance and operational risks. Management needed to understand the correlation between a high-volume sales strategy and the resulting impact on Average Order Value (AOV) and Product Returns.
+---
 
-### 🛠️ Tech Stack & Skills
+## 🛠️ Technical Accomplishments & Data Engineering
+* **Data Ingestion:** Successfully appended three years of sales tables (2020–2022) into a unified Fact Table for longitudinal analysis.
+* **Data Integrity:** Cleansed and resolved key-mapping mismatches in the **EducationLevel** dimension to ensure demographic accuracy.
+* **DAX Development:** Created complex measures for **YoY Growth**, **41.97% Profit Margin**, and **Return Rate (2.17%)**.
+* **UI/UX Design:** Implemented a custom vertical navigation sidebar with active-state indicators and a global "Reset Filter" bookmark for enhanced usability.
 
-    Power BI Desktop: Used for end-to-end development from data ingestion to visualization.
+---
 
-    Power Query (M): Utilized for the Data Append process, joining three years of sales records into a single fact table.
+## 📈 Key Business Insights
+* **The AOV Strategy:** The drop in AOV was identified as a strategic success of a volume-based model, driving massive revenue despite lower individual transaction sizes.
+* **Primary Revenue Driver:** Customers with a **Bachelors degree** represent the largest revenue segment, contributing **$8.4M** in total sales.
+* **Operational Risk:** Identified a rising trend in **Total Units Returned (1,828)**, specifically in the latter half of the year, signaling a need for Quality Control (QC) intervention.
 
-    DAX (Data Analysis Expressions): Created custom measures for YoY Growth (166.24%), Profit Margin (41.97%), and Return Rate analysis.
+---
 
-    Data Modeling: Designed a Star Schema to optimize filter performance across Country, Category, and Education Level dimensions.
+## 🖥️ Dashboard Walkthrough
 
-    ### 🖥️ Dashboard Walkthrough
-    Page 1: Executive Overview
+### Page 1: Executive Overview
+Focused on high-level KPIs including Revenue, Profit, and Geographic Sales Distribution.
+![Overview](03_Images/your_overview_image_name.png)
 
-        Provides a high-level summary of the $24.91M Revenue and 41.97% Profit Margin.
+### Page 2: Operational Deep Dive
+Granular analysis of units sold, return rates, and demographic performance.
+![Deep Dive](03_Images/your_deep_dive_image_name.png)
 
-        Features a global map for geographic sales distribution and a Sales Momentum line chart.
+### Page 3: Strategic Insights
+A narrative-driven page providing tactical recommendations like the "Premium Commuter" campaign.
+![Strategic Insights](03_Images/your_insights_image_name.png)
 
-    Page 2: Operational Deep Dive
+---
 
-        Focuses on the 84K units sold and the operational reality of a 2.17% Return Rate.
+## 🔗 Connect with the Analyst
+* **LinkedIn:** [www.linkedin.com/in/demitheanalyst]
 
-        Visualizes sales by Education Level, identifying Bachelors degree holders as the primary revenue driver ($8.4M).
-
-    Page 3: Strategic Insights
-
-        Translates data into action with tactical recommendations like the "Premium Commuter" campaign for the high-value Bachelors segment.
-
-        Explains the AOV Narrative, proving that the $990.09 transaction size was a strategic success of the volume-based model.
-
-        
